@@ -1,16 +1,16 @@
 const quizData = [
     {
-        question: "What is the most used programming language in 2019?",
+        question: "What is the most used programming language in 2021?",
         a: "Java",
         b: "C",
         c: "Python",
         d: "JavaScript",
-        correct: "d",
+        correct: "c",
     },
     {
-        question: "Who is the President of US?",
-        a: "Florin Pop",
-        b: "Donald Trump",
+        question: "Who is the founder of Google?",
+        a: "Sunder Pichai",
+        b: "Lary Page",
         c: "Ivan Saldano",
         d: "Mihai Andrei",
         correct: "b",
@@ -21,6 +21,14 @@ const quizData = [
         b: "Cascading Style Sheet",
         c: "Jason Object Notation",
         d: "Helicopters Terminals Motorboats Lamborginis",
+        correct: "a",
+    },
+    {
+        question: "What is the fullform of API?",
+        a: "Asynchronous Programming Interfaces",
+        b: "AJAX Programming Interfaces",
+        c: "Jason Object Notation",
+        d: "Application Programming Interfaces",
         correct: "a",
     },
     {
