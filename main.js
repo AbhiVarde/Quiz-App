@@ -29,7 +29,7 @@ const quizData = [
         b: "AJAX Programming Interfaces",
         c: "Jason Object Notation",
         d: "Application Programming Interfaces",
-        correct: "a",
+        correct: "d",
     },
     {
         question: "What year was JavaScript launched?",
